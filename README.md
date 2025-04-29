@@ -15,8 +15,9 @@ Before running the project, make sure you have:
 
 - A Google Sheets API project set up with a service account and a JSON credentials file.
 
-- Python 3.7 or higher installed.
-
+- Python 3.7 or higher installed. 
+  _(Tested with Python 3.13.2)_
+  
 - Necessary Python packages.
 
 ## Setup and Installation
